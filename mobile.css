@@ -1,0 +1,81 @@
+@media(max-width: 650px) {
+	.menu {
+		height: 70px;
+		width: 100%;
+		display: block;
+		padding: 10px;
+		text-align: center;
+		box-sizing: border-box;
+
+	}
+
+	.namemenu {
+		display: none;
+	}
+
+	.menu a {
+		padding: 0;
+		height: 10px;
+		display: inline;
+		margin: 10px;
+	}
+
+	h1 {
+		padding-left: 0;
+	}
+
+	a {
+		padding-left: 0;
+	}
+
+	.showcase {
+		padding-left: 0;
+	}
+
+	.services {
+		padding-left: 0;
+	}
+
+	.designers {
+		padding-left: 0;
+	}
+
+	.packages {
+		padding-left: 0;
+	}
+	
+	.contact {
+		padding-left: 0;
+	}
+
+	.team {
+		display: block;
+	}
+
+	.members {
+		margin: auto;
+		margin-bottom: 50px;
+	}
+
+	.tarifs {
+		display: block;
+	}
+
+	.purpletarif {
+		margin: auto;
+		margin-bottom: 50px;
+	}
+
+	.redtarif {
+		margin: auto;
+		margin-bottom: 50px;
+	}
+
+	.flexshowcase {
+		text-align: center;
+	}
+
+	h1 {
+		margin-top: 70px;
+	}
+}

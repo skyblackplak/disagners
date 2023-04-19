@@ -1,0 +1,218 @@
+.menu {
+	background: peru;
+	color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 200px;
+	border-radius: 20px;
+	font-family: sans-serif;
+}
+
+a {
+	color: white;
+	display: block;
+	text-decoration: none;
+	font-family: sans-serif;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	font-weight: bold;
+
+}
+
+h1 {
+	padding-left: 300px;
+}
+
+.showcase {
+	padding-left: 300px;
+	color: peru;
+	font-size: 15px;
+}
+
+body {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.showcase img {
+	width: 300px;
+	border-radius: 15px;
+	margin: 5px;
+}
+
+hr {
+	background: peru;
+	border: peru 3px solid;
+	border-radius: 5px;
+}
+
+.services {
+	padding-left: 300px;
+}
+
+h2 {
+	color: peru;
+}
+
+.designers {
+	padding-left: 300px;
+}
+
+.team {
+	display: flex;
+	justify-content: space-around;
+}
+
+.team img {
+	width: 200px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.team div {
+	width: 200px;
+
+}
+
+.member {
+	background: #f0f0f0;
+	border-radius: 10px;
+	padding:10px;
+	box-sizing: border-box;
+}
+
+.cda {
+	color: gray;
+}
+
+.packages {
+	padding-left: 300px;
+}
+
+.tarifs {
+	display: flex;
+	justify-content: space-around;
+}
+
+.purpletarif {
+	width: 300px;
+	text-align: center;
+}
+
+.redtarif {
+	width: 300px;
+	text-align: center;
+}
+
+.purpletarif h3 {
+	background: peru;
+	padding:  20px;
+	border-radius: 10px;
+	color: white;
+}
+
+.redtarif h3  {
+	background: purple;
+	padding:  20px;
+	border-radius: 10px;
+	color: white;
+}
+
+.redtarif {
+	background: #f0f0f0;
+	border-radius: 10px;
+	margin: 0;
+}
+
+.redtarif h3 {
+	margin: 0;
+}
+
+.redtarif p {
+	padding: 5px;
+	border-bottom: solid 1px #e0e0e0;
+	border-radius: 10px;
+}
+
+.purpletarif p {
+	padding: 5px;
+	border-bottom: solid 1px #e0e0e0;
+	border-radius: 10px;
+}
+
+.purpletarif h3 {
+	margin: 0;
+}
+
+.purpletarif {
+	background: #f0f0f0;
+	border-radius: 10px;
+}
+
+.redbutton {
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius: 20px;
+	background: purple;
+	color: white;
+	border: none;
+}
+
+.purplebutton {
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius: 20px;
+	background: white;
+	color: peru;
+	border: none;
+}
+
+.dollars {
+	font-size: 30px;
+}
+
+.day {
+	color: gray;
+}
+
+.namemenu {
+	color: white;
+}
+
+.contact {
+	padding-left: 300px;
+}
+
+input {
+	padding: 5px;
+	margin-top: 3px;
+	width: 95%;
+}
+
+.messagebutton {
+	background: peru;
+	border-radius: 10px;
+	color: white;
+	width: 95%;
+	padding: 10px;
+	border:  none;
+}
+
+.messagebutton:hover {
+	background: purple;
+	transition: 1s;
+}
+
+.purplebutton:hover {
+	background: peru;
+	transition: 1s;
+	color: white;
+}
+
+.redbutton:hover {
+	background: purple;
+	transition: 1s;
+}
+
